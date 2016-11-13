@@ -1,4 +1,4 @@
 
-public class ObjectBasique {
+public abstract class  ObjectBasique implements Visitable {
 
 }

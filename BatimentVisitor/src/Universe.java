@@ -3,8 +3,8 @@ import java.util.Set;
 
 public class Universe implements Visitable {
 
-	Set<Pieces> pieces;
-    String name;
+	private Set<Pieces> pieces;
+    private String name;
     
     
 	

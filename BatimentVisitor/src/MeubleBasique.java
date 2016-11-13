@@ -1,4 +1,4 @@
 
-public class MeubleBasique extends ObjectMobile {
+public abstract class MeubleBasique extends ObjectMobile implements Visitable {
 
 }

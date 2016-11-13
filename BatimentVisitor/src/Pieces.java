@@ -4,7 +4,7 @@ import java.util.Set;
 public class Pieces  implements Visitable {
 
 	Set<ObjectMobile> ObjetMobiles;
-    String name;
+    private String name;
     
     
 	

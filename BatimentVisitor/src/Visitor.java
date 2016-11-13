@@ -9,7 +9,5 @@ public interface Visitor {
 	public void visit(Lamp l);
 	public void visit(GardeRobe g);
 	public void visit(Vetments v);
-	public void visit(MeubleContenant m);
-	public void visit(ObjectMobile o);
 
 }
