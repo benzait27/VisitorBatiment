@@ -1,7 +1,8 @@
+package Visitor;
 import java.util.HashSet;
 import java.util.Set;
 
-public abstract class MeubleContenant implements Visitable {
+public abstract class MeubleContenant extends ObjectMobile implements Visitable {
 
 	Set<ObjectBasique> pieces;
 

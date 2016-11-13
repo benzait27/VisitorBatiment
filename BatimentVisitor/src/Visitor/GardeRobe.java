@@ -1,9 +1,7 @@
+package Visitor;
+public class GardeRobe extends MeubleContenant implements Visitable {
 
-public class Lamp extends ObjectBasique implements Visitable {
-
-	
-	
-	  public Lamp() {
+	  public GardeRobe() {
 	        super();
 	    }
 	  

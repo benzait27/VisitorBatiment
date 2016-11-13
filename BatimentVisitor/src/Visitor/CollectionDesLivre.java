@@ -1,4 +1,4 @@
-
+package Visitor;
 public class CollectionDesLivre extends ObjectBasique implements Visitable {
 
       public  int nb;

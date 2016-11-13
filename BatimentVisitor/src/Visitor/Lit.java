@@ -1,4 +1,4 @@
-
+package Visitor;
 public class Lit extends MeubleBasique  implements Visitable {
 
 	
